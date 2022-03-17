@@ -7,5 +7,6 @@ namespace ConsoleAppMario
     class NewClass
     {
         
+
     }
 }
