@@ -9,6 +9,7 @@ namespace ConsoleAppMario
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dodano nakon kreiranja gita!!!");
             Console.WriteLine("Poyyy");
+            Console.WriteLine("Opet ja :3333");
         }
     }
 }
