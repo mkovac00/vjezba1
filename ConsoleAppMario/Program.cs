@@ -11,6 +11,7 @@ namespace ConsoleAppMario
             Console.WriteLine("Poyyy");
             Console.WriteLine("Opet ja :3333");
             Console.WriteLine("Izmjuena3");
+            COnsole.WriteLine("Izmjuena4");
         }
     }
 }
